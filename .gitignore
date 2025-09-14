@@ -1,0 +1,23 @@
+*.mtx
+*.npz
+*.log
+*.err
+# *.csv
+# *.pdf
+*.dat
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.DS_Store
+*.pyc
+__pycache__/
+*.egg-info/
+
+# data
+data
+
+# Output
+output*/
